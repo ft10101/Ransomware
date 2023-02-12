@@ -1,4 +1,4 @@
-# What is a ransomware?
+# What is a ransomware? 
 Ransomware is a type of malware from cryptovirology that threatens to publish the victim's personal data or permanently block access to it unless the attacker is paid or the desired wish of the attacker is fullfilled.
 
 
