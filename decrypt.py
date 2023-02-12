@@ -1,4 +1,3 @@
-
 import os # for importing all the files through built in library
 from cryptography.fernet import Fernet   # built in function for generating key
 
